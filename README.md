@@ -17,3 +17,5 @@ Adding GIT comparison Lecture
 Comparison with Repo
 ##Comparing stage with Repo
 let see what is there in Repository
+##Contributions
+Fork the Repor and raise pull request 
