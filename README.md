@@ -16,6 +16,12 @@ Adding GIT comparison Lecture
 ## GITHub Content
 Comparison with Repo
 ##Comparing stage with Repo
+<<<<<<< HEAD
 let see what is there in Repository
 ##Contributions
 Fork the Repor and raise pull request 
+=======
+let see what is there in Repositoriy
+#Contribution
+Fork the Repor and raise
+>>>>>>> develop
