@@ -15,3 +15,5 @@ This is the famous and one of the best training course of devops
 Adding GIT comparison Lecture
 ## GITHub Content
 Comparison with Repo
+##Comparing stage with Repo
+let see what is there in Repository
