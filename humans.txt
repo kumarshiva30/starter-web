@@ -5,6 +5,7 @@ Hi, I am modifying the file before rebase
 
     <name> -- <role> -- <twitter>
     something need to change
+    Adding important notes on GIT stash.
 
 # THANKS
 
