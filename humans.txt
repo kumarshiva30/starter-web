@@ -15,6 +15,7 @@ Hi, I am modifying the file before rebase
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    AWS Solution Arch Developer
 #This is Narendra Kumar
 Narendra Kumar
 #Email-Add
